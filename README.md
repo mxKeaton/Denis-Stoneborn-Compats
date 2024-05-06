@@ -4,7 +4,7 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 
 ### Currently adds compatibilities for:
 - Completionist Index
-- More Banned Features
+- More Banner Features
 - TieredZ
 - Transmog
 - Universal Graves
