@@ -1,0 +1,18 @@
+{
+  "text.graves.grave_of": "Grave of %s",
+
+  "text.graves.players_grave": "§6  %s's grave",
+  "text.graves.gui_title": "§6Your graves",
+
+  "text.graves.gui.next_page": "§6Next Page",
+  "text.graves.gui.previous_page": "§6Previous Page",
+  "text.graves.gui.remove_protection": "§6Remove Protection",
+  "text.graves.gui.break_grave": "§6Break Grave",
+  "text.graves.gui.quick_pickup": "§6Take All Items",
+  "text.graves.gui.teleport": "§6Teleport to grave",
+
+  "text.graves.cost.level": "XP Levels",
+  "text.graves.cost.creative": "Creative",
+  "text.graves.cost.free": "Free",
+  "text.graves.cost.item": "Items"
+}
