@@ -1,0 +1,10 @@
+{
+	"itemGroup.toms_storage.tab": "§6Tom's Simple Storage",
+	
+	"ts.storage_terminal": "§6S. Terminal",
+	"ts.crafting_terminal": "§6C. Terminal",
+	"ts.connector_filtered": "§6Set Filter",
+	"ts.level_emitter": "§6Level Emitter",
+	"ts.inventory_connector": "§6Inventory Link",
+	"ts.inventory_connector.beacon_level": "§6Beacon Level: %d"
+}
